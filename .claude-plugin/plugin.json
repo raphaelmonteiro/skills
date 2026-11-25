@@ -1,0 +1,9 @@
+{
+  "name": "raphael-skills",
+  "version": "0.1.0",
+  "description": "Skills para o Claude Code: doc-enrich, snapshot-to-doc e create-tasks",
+  "author": {
+    "name": "Raphael Monteiro"
+  },
+  "license": "MIT"
+}
