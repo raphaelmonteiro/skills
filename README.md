@@ -7,6 +7,7 @@ Skills para o Claude Code.
 | [doc-enrich](skills/doc-enrich/SKILL.md) | Transforma um Markdown ou HTML numa página HTML em tema Dracula, sem mudar o texto |
 | [snapshot-to-doc](skills/snapshot-to-doc/SKILL.md) | Registra a conversa num documento e confere o resultado contra ela |
 | [create-tasks](skills/create-tasks/SKILL.md) | Quebra um documento em tasks com origem, dependências e critérios verificáveis |
+| [code-investigator](skills/code-investigator/SKILL.md) | Faz engenharia reversa de um repositório (Go, Java, PHP, Node/TS) num mapa de produtos, fluxos e regras de negócio, com referências `arquivo:linha` |
 
 A `doc-enrich` precisa de Python 3 (só a biblioteca padrão).
 
